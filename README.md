@@ -1,7 +1,3 @@
-Aqui está o guia formatado em Markdown, pronto para ser copiado para um arquivo `.md` ou usado em sua documentação pessoal.
-
------
-
 # Tutorial Git: Configuração e Primeiros Passos
 
 Este guia cobre o fluxo essencial para iniciar um projeto, salvar alterações e enviar para o GitHub.
