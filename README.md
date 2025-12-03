@@ -76,7 +76,3 @@ Use se quiser baixar os arquivos do GitHub e juntar com os seus antes de enviar.
 git pull origin main --allow-unrelated-histories
 git push -u origin main
 ```
-
------
-
-Gostaria que eu gerasse um arquivo `.md` com esse conteúdo para você baixar?
